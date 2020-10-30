@@ -1,7 +1,7 @@
 import pyttsx3
 import PyPDF2
 
-myPDF = open('XXXXXX.pdf', 'rb')            # XXXXXX.pdf is the fileName.pdf
+myPDF = open('ANcXMLGuide.pdf', 'rb')       # ANcXMLGuide.pdf is the fileName you want to read
                                             # rb = Read Binary as we are opening PDF file
 pdfReader = PyPDF2.PdfFileReader(myPDF)
 pages = pdfReader.numPages                  # Total number of pages in this PDF
