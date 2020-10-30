@@ -17,7 +17,7 @@ Find more details about [pyttsx here](https://www.geeksforgeeks.org/python-text-
 **PyPDF2: Working with PDF files in Python**
 * PyPDF2 is to handle PDF files in Python. Find more details about [PyPDF2 here](https://pythonhosted.org/PyPDF2/)
 
-### I used Visual Studio Code
+# Today I used [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/harshhjain)
 
 # Happy ~Reading~ Listening :smile:
 
