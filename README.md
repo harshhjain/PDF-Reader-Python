@@ -23,4 +23,4 @@ Find more details about [pyttsx here](https://www.geeksforgeeks.org/python-text-
 
 ### How to contact me
  * :email: [harshh.jain@gmail.com](mailto:harshh.jain@gmail.com)
- * <img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[My Profile](https://www.linkedin.com/in/harsh-vardhan-jain-a651816a/)
+ * <img align="left" alt="SvenC | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[Harsh Vardhan Jain](https://www.linkedin.com/in/harsh-vardhan-jain-a651816a/)
