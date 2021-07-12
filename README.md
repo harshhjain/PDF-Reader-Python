@@ -1,6 +1,6 @@
 # PDF-Reader-Python
 
-### This is to listed PDF. You upload PDF and listen the text in it. 
+### This is to listen PDF. You upload PDF and listen the text in it. 
 
 # How to use? 
 * Keep ReadPDF.py and your PDF file in same folder
